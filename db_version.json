@@ -1,6 +1,12 @@
 {
-  "current_version": "2025.1.0",
-  "current_file": "ramadan_schedule_2025.json",
-  "release_date": "2025-03-01",
-  "changelog": "Initial 2025 Ramadan schedule"
+  "schedule": {
+    "version": "2025.1.0",
+    "file": "ramadan_schedule_2025.json",
+    "log": "Fixed prayer times for Chittagong"
+  },
+  "database": {
+    "version": "1.0.0",
+    "file": "ramadan_app_database.7z", 
+    "log": "Added new dua collection"
+  }
 }
