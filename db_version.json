@@ -6,7 +6,7 @@
   },
   "database": {
     "version": "1.0.0",
-    "file": "ramadan_app_database.7z", 
+    "file": "ramadan_app_database.zip", 
     "log": "Added new dua collection"
   }
 }
