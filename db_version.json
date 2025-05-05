@@ -5,8 +5,8 @@
     "log": "Schedule for Ramadan 2025"
   },
   "database": {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "file": "ramadan_app_database.zip", 
-    "log": "Added new dua collections"
+    "log": "Added new dua collection"
   }
 }
