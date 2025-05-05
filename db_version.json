@@ -1,5 +1,6 @@
 {
-  "latest_version": "1.0.1",
-  "file_name": "ramadan_app_database_v1.0.1.7z",
-  "last_updated": "2025-05-04"
+  "current_version": "1.0.0",
+  "current_file": "ramadan_schedule_v1.0.0.json",
+  "release_date": "2025-05-05",
+  "changelog": "Initial release of Ramadan 2025 schedule"
 }
