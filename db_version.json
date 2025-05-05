@@ -2,7 +2,7 @@
   "schedule": {
     "version": "2025.1.1",
     "file": "ramadan_schedule_2025.json",
-    "log": "Fixed prayer times for Chittagong"
+    "log": "Initial Databse for 2025"
   },
   "database": {
     "version": "1.0.0",
