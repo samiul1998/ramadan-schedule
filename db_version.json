@@ -10,7 +10,7 @@
     "log": "Added new dua collection"
   },
   "district_list": {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "file": "district_list.json",
     "log": "Initial list of districts"
   }
