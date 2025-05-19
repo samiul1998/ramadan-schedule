@@ -1,6 +1,7 @@
 {
   "district_list": [
     { "name_en": "Dhaka", "name_bn": "ঢাকা" },
+    { "name_en": "Test", "name_bn": "টেস্ট" },
     { "name_en": "Faridpur", "name_bn": "ফরিদপুর" },
     { "name_en": "Gazipur", "name_bn": "গাজীপুর" },
     { "name_en": "Gopalganj", "name_bn": "গোপালগঞ্জ" },
