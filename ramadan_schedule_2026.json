@@ -1,712 +1,712 @@
 {
   "dhaka_schedule": [
     {
-      "day": "০১",
-      "eng_date": "১৯ ফেব্রুয়ারি, ২০২৬ ইং",
+      "day": "১",
+      "eng_date": "১৮ ফেব্রুয়ারি, ২০২৬ ইং",
       "hijri_date": "০১ রমজান, ১৪৪৭ হিঃ",
+      "weekday": "বুধবার",
+      "sahri": "5:11",
+      "fajr": "5:17",
+      "sunrise": "6:30",
+      "eshraq": "6:42",
+      "zuhr_begins": "12:15",
+      "zuhr": "12:18",
+      "asr": "4:35",
+      "maghrib": "6:01",
+      "isha": "7:14"
+    },
+    {
+      "day": "২",
+      "eng_date": "১৯ ফেব্রুয়ারি, ২০২৬ ইং",
+      "hijri_date": "০২ রমজান, ১৪৪৭ হিঃ",
       "weekday": "বৃহস্পতিবার",
-      "sahri": "5:12",
-      "fajr": "5:15",
+      "sahri": "5:10",
+      "fajr": "5:16",
       "sunrise": "6:29",
       "eshraq": "6:41",
       "zuhr_begins": "12:15",
       "zuhr": "12:18",
       "asr": "4:35",
-      "maghrib": "5:58",
+      "maghrib": "6:02",
       "isha": "7:15"
     },
     {
-      "day": "০২",
+      "day": "৩",
       "eng_date": "২০ ফেব্রুয়ারি, ২০২৬ ইং",
-      "hijri_date": "০২ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "০৩ রমজান, ১৪47 হিঃ",
       "weekday": "শুক্রবার",
-      "sahri": "5:11",
-      "fajr": "5:14",
+      "sahri": "5:09",
+      "fajr": "5:15",
       "sunrise": "6:28",
       "eshraq": "6:40",
       "zuhr_begins": "12:15",
       "zuhr": "12:18",
       "asr": "4:36",
-      "maghrib": "5:58",
+      "maghrib": "6:02",
       "isha": "7:15"
     },
     {
-      "day": "০৩",
+      "day": "৪",
       "eng_date": "২১ ফেব্রুয়ারি, ২০২৬ ইং",
-      "hijri_date": "০৩ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "০৪ রমজান, ১৪৪৭ হিঃ",
       "weekday": "শনিবার",
-      "sahri": "5:11",
+      "sahri": "5:08",
       "fajr": "5:14",
       "sunrise": "6:27",
       "eshraq": "6:39",
       "zuhr_begins": "12:15",
       "zuhr": "12:18",
       "asr": "4:36",
-      "maghrib": "5:59",
+      "maghrib": "6:03",
       "isha": "7:16"
     },
     {
-      "day": "০৪",
+      "day": "৫",
       "eng_date": "২২ ফেব্রুয়ারি, ২০২৬ ইং",
-      "hijri_date": "০৪ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "০৫ রমজান, ১৪৪৭ হিঃ",
       "weekday": "রবিবার",
-      "sahri": "5:10",
+      "sahri": "5:07",
       "fajr": "5:13",
       "sunrise": "6:26",
       "eshraq": "6:38",
       "zuhr_begins": "12:15",
       "zuhr": "12:18",
       "asr": "4:37",
-      "maghrib": "5:59",
+      "maghrib": "6:03",
       "isha": "7:16"
     },
     {
-      "day": "০৫",
+      "day": "৬",
       "eng_date": "২৩ ফেব্রুয়ারি, ২০২৬ ইং",
-      "hijri_date": "০৫ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "০৬ রমজান, ১৪৪৭ হিঃ",
       "weekday": "সোমবার",
-      "sahri": "5:09",
+      "sahri": "5:06",
       "fajr": "5:12",
       "sunrise": "6:25",
       "eshraq": "6:37",
       "zuhr_begins": "12:15",
       "zuhr": "12:18",
       "asr": "4:37",
-      "maghrib": "6:00",
+      "maghrib": "6:04",
       "isha": "7:17"
     },
     {
-      "day": "০৬",
+      "day": "৭",
       "eng_date": "২৪ ফেব্রুয়ারি, ২০২৬ ইং",
-      "hijri_date": "০৬ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "০৭ রমজান, ১৪৪৭ হিঃ",
       "weekday": "মঙ্গলবার",
-      "sahri": "5:08",
+      "sahri": "5:05",
       "fajr": "5:11",
       "sunrise": "6:24",
       "eshraq": "6:36",
       "zuhr_begins": "12:14",
       "zuhr": "12:17",
       "asr": "4:38",
-      "maghrib": "6:00",
+      "maghrib": "6:05",
       "isha": "7:18"
     },
     {
-      "day": "০৭",
+      "day": "৮",
       "eng_date": "২৫ ফেব্রুয়ারি, ২০২৬ ইং",
-      "hijri_date": "০৭ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "০৮ রমজان, ১৪৪৭ হিঃ",
       "weekday": "বুধবার",
-      "sahri": "5:08",
-      "fajr": "5:11",
+      "sahri": "5:04",
+      "fajr": "5:10",
       "sunrise": "6:23",
       "eshraq": "6:35",
       "zuhr_begins": "12:14",
       "zuhr": "12:17",
       "asr": "4:38",
-      "maghrib": "6:01",
+      "maghrib": "6:05",
       "isha": "7:18"
     },
     {
-      "day": "০৮",
+      "day": "৯",
       "eng_date": "২৬ ফেব্রুয়ারি, ২০২৬ ইং",
-      "hijri_date": "০৮ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "০৯ রমজান, ১৪৪৭ হিঃ",
       "weekday": "বৃহস্পতিবার",
-      "sahri": "5:07",
-      "fajr": "5:10",
+      "sahri": "5:03",
+      "fajr": "5:09",
       "sunrise": "6:22",
       "eshraq": "6:34",
       "zuhr_begins": "12:14",
       "zuhr": "12:17",
       "asr": "4:39",
-      "maghrib": "6:01",
+      "maghrib": "6:06",
       "isha": "7:19"
     },
     {
-      "day": "০৯",
+      "day": "১০",
       "eng_date": "২৭ ফেব্রুয়ারি, ২০২৬ ইং",
-      "hijri_date": "০৯ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "১০ রমজান, ১৪৪৭ হিঃ",
       "weekday": "শুক্রবার",
-      "sahri": "5:06",
-      "fajr": "5:09",
+      "sahri": "5:02",
+      "fajr": "5:08",
       "sunrise": "6:21",
       "eshraq": "6:33",
       "zuhr_begins": "12:14",
       "zuhr": "12:17",
       "asr": "4:39",
-      "maghrib": "6:02",
+      "maghrib": "6:06",
       "isha": "7:19"
     },
     {
-      "day": "১০",
+      "day": "১১",
       "eng_date": "২৮ ফেব্রুয়ারি, ২০২৬ ইং",
-      "hijri_date": "১০ রমজান, ১৪৪৭ হিঃ",
-      "weekday": "শনিবার",
-      "sahri": "5:05",
-      "fajr": "5:08",
+      "hijri_date": "১১ রমজান, ১৪৪৭ হিঃ",
+      "weekday": "শনিবар",
+      "sahri": "5:01",
+      "fajr": "5:07",
       "sunrise": "6:20",
       "eshraq": "6:32",
       "zuhr_begins": "12:14",
       "zuhr": "12:17",
       "asr": "4:40",
-      "maghrib": "6:02",
+      "maghrib": "6:07",
       "isha": "7:20"
     },
     {
-      "day": "১১",
+      "day": "১২",
       "eng_date": "১ মার্চ, ২০২৬ ইং",
-      "hijri_date": "১১ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "১২ রমজান, ১৪৪৭ হিঃ",
       "weekday": "রবিবার",
-      "sahri": "5:05",
-      "fajr": "5:08",
+      "sahri": "5:00",
+      "fajr": "5:06",
       "sunrise": "6:19",
       "eshraq": "6:31",
       "zuhr_begins": "12:14",
       "zuhr": "12:17",
       "asr": "4:40",
-      "maghrib": "6:03",
+      "maghrib": "6:07",
       "isha": "7:20"
     },
     {
-      "day": "১২",
+      "day": "১৩",
       "eng_date": "২ মার্চ, ২০২৬ ইং",
-      "hijri_date": "১২ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "১৩ রমজান, ১৪৪৭ হিঃ",
       "weekday": "সোমবার",
-      "sahri": "5:04",
-      "fajr": "5:07",
+      "sahri": "4:59",
+      "fajr": "5:05",
       "sunrise": "6:18",
       "eshraq": "6:30",
       "zuhr_begins": "12:13",
       "zuhr": "12:16",
       "asr": "4:41",
-      "maghrib": "6:03",
+      "maghrib": "6:08",
       "isha": "7:21"
     },
     {
-      "day": "১৩",
+      "day": "১৪",
       "eng_date": "৩ মার্চ, ২০২৬ ইং",
-      "hijri_date": "১৩ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "১৪ রমজান, ১৪৪৭ হিঃ",
       "weekday": "মঙ্গলবার",
-      "sahri": "5:03",
-      "fajr": "5:06",
+      "sahri": "4:58",
+      "fajr": "5:04",
       "sunrise": "6:17",
       "eshraq": "6:29",
       "zuhr_begins": "12:13",
       "zuhr": "12:16",
       "asr": "4:41",
-      "maghrib": "6:04",
+      "maghrib": "6:08",
       "isha": "7:21"
     },
     {
-      "day": "১৪",
+      "day": "১৫",
       "eng_date": "৪ মার্চ, ২০২৬ ইং",
-      "hijri_date": "১৪ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "১৫ রমজান, ১৪৪৭ হিঃ",
       "weekday": "বুধবার",
-      "sahri": "5:02",
-      "fajr": "5:05",
+      "sahri": "4:57",
+      "fajr": "5:03",
       "sunrise": "6:16",
       "eshraq": "6:28",
       "zuhr_begins": "12:13",
       "zuhr": "12:16",
       "asr": "4:42",
-      "maghrib": "6:04",
+      "maghrib": "6:09",
       "isha": "7:22"
     },
     {
-      "day": "১৫",
+      "day": "১৬",
       "eng_date": "৫ মার্চ, ২০২৬ ইং",
-      "hijri_date": "১৫ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "১৬ রমজান, ১৪৪৭ হিঃ",
       "weekday": "বৃহস্পতিবার",
-      "sahri": "5:01",
-      "fajr": "5:04",
+      "sahri": "4:56",
+      "fajr": "5:02",
       "sunrise": "6:15",
       "eshraq": "6:27",
       "zuhr_begins": "12:13",
       "zuhr": "12:16",
       "asr": "4:42",
-      "maghrib": "6:05",
+      "maghrib": "6:09",
       "isha": "7:22"
     },
     {
-      "day": "১৬",
+      "day": "১৭",
       "eng_date": "৬ মার্চ, ২০২৬ ইং",
-      "hijri_date": "১৬ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "১৭ রমজান, ১৪৪৭ হিঃ",
       "weekday": "শুক্রবার",
-      "sahri": "5:00",
-      "fajr": "5:03",
+      "sahri": "4:55",
+      "fajr": "5:01",
       "sunrise": "6:14",
       "eshraq": "6:26",
       "zuhr_begins": "12:13",
       "zuhr": "12:16",
       "asr": "4:43",
-      "maghrib": "6:05",
+      "maghrib": "6:10",
       "isha": "7:23"
     },
     {
-      "day": "১৭",
+      "day": "১৮",
       "eng_date": "৭ মার্চ, ২০২৬ ইং",
-      "hijri_date": "১৭ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "১৮ রমজান, ১৪৪৭ হিঃ",
       "weekday": "শনিবার",
-      "sahri": "4:59",
-      "fajr": "5:02",
+      "sahri": "4:54",
+      "fajr": "5:00",
       "sunrise": "6:13",
       "eshraq": "6:25",
       "zuhr_begins": "12:12",
       "zuhr": "12:15",
       "asr": "4:43",
-      "maghrib": "6:06",
+      "maghrib": "6:10",
       "isha": "7:23"
     },
     {
-      "day": "১৮",
+      "day": "১৯",
       "eng_date": "৮ মার্চ, ২০২৬ ইং",
-      "hijri_date": "১৮ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "১৯ রমজান, ১৪৪৭ হিঃ",
       "weekday": "রবিবার",
-      "sahri": "4:58",
-      "fajr": "5:01",
+      "sahri": "4:53",
+      "fajr": "4:59",
       "sunrise": "6:12",
       "eshraq": "6:24",
       "zuhr_begins": "12:12",
       "zuhr": "12:15",
       "asr": "4:44",
-      "maghrib": "6:06",
+      "maghrib": "6:11",
       "isha": "7:24"
     },
     {
-      "day": "১৯",
+      "day": "২০",
       "eng_date": "৯ মার্চ, ২০২৬ ইং",
-      "hijri_date": "১৯ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "২০ রমজান, ১৪৪৭ হিঃ",
       "weekday": "সোমবার",
-      "sahri": "4:57",
-      "fajr": "5:00",
+      "sahri": "4:52",
+      "fajr": "4:58",
       "sunrise": "6:11",
       "eshraq": "6:23",
       "zuhr_begins": "12:12",
       "zuhr": "12:15",
       "asr": "4:44",
-      "maghrib": "6:07",
+      "maghrib": "6:11",
       "isha": "7:24"
     },
     {
-      "day": "২০",
+      "day": "২১",
       "eng_date": "১০ মার্চ, ২০২৬ ইং",
-      "hijri_date": "২০ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "২১ রমজান, ১৪৪৭ হিঃ",
       "weekday": "মঙ্গলবার",
-      "sahri": "4:57",
-      "fajr": "4:59",
+      "sahri": "4:51",
+      "fajr": "4:57",
       "sunrise": "6:10",
       "eshraq": "6:22",
       "zuhr_begins": "12:12",
       "zuhr": "12:15",
       "asr": "4:45",
-      "maghrib": "6:07",
+      "maghrib": "6:12",
       "isha": "7:25"
     },
     {
-      "day": "২১",
+      "day": "২২",
       "eng_date": "১১ মার্চ, ২০২৬ ইং",
-      "hijri_date": "২১ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "২২ রমজান, ১৪৪৭ হিঃ",
       "weekday": "বুধবার",
-      "sahri": "4:56",
-      "fajr": "4:58",
+      "sahri": "4:50",
+      "fajr": "4:56",
       "sunrise": "6:09",
       "eshraq": "6:21",
       "zuhr_begins": "12:11",
       "zuhr": "12:14",
       "asr": "4:45",
-      "maghrib": "6:07",
+      "maghrib": "6:12",
       "isha": "7:25"
     },
     {
-      "day": "২২",
+      "day": "২৩",
       "eng_date": "১২ মার্চ, ২০২৬ ইং",
-      "hijri_date": "২২ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "২৩ রমজান, ১৪৪৭ হিঃ",
       "weekday": "বৃহস্পতিবার",
-      "sahri": "4:55",
-      "fajr": "4:57",
+      "sahri": "4:49",
+      "fajr": "4:55",
       "sunrise": "6:08",
       "eshraq": "6:20",
       "zuhr_begins": "12:11",
       "zuhr": "12:14",
       "asr": "4:46",
-      "maghrib": "6:08",
+      "maghrib": "6:13",
       "isha": "7:26"
     },
     {
-      "day": "২৩",
+      "day": "২৪",
       "eng_date": "১৩ মার্চ, ২০২৬ ইং",
-      "hijri_date": "২৩ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "২৪ রমজান, ১৪৪৭ হিঃ",
       "weekday": "শুক্রবার",
-      "sahri": "4:54",
-      "fajr": "4:57",
+      "sahri": "4:48",
+      "fajr": "4:54",
       "sunrise": "6:07",
       "eshraq": "6:19",
       "zuhr_begins": "12:11",
       "zuhr": "12:14",
       "asr": "4:46",
-      "maghrib": "6:08",
+      "maghrib": "6:13",
       "isha": "7:26"
     },
     {
-      "day": "২৪",
+      "day": "২৫",
       "eng_date": "১৪ মার্চ, ২০২৬ ইং",
-      "hijri_date": "২৪ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "২৫ রমজান, ১৪৪৭ হিঃ",
       "weekday": "শনিবার",
-      "sahri": "4:53",
-      "fajr": "4:56",
+      "sahri": "4:47",
+      "fajr": "4:53",
       "sunrise": "6:06",
       "eshraq": "6:18",
       "zuhr_begins": "12:11",
       "zuhr": "12:14",
       "asr": "4:47",
-      "maghrib": "6:09",
+      "maghrib": "6:14",
       "isha": "7:27"
     },
     {
-      "day": "২৫",
+      "day": "২৬",
       "eng_date": "১৫ মার্চ, ২০২৬ ইং",
-      "hijri_date": "২৫ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "২৬ রমজান, ১৪৪৭ হিঃ",
       "weekday": "রবিবার",
-      "sahri": "4:52",
-      "fajr": "4:55",
+      "sahri": "4:46",
+      "fajr": "4:52",
       "sunrise": "6:05",
       "eshraq": "6:17",
       "zuhr_begins": "12:10",
       "zuhr": "12:13",
       "asr": "4:47",
-      "maghrib": "6:09",
+      "maghrib": "6:14",
       "isha": "7:27"
     },
     {
-      "day": "২৬",
+      "day": "২৭",
       "eng_date": "১৬ মার্চ, ২০২৬ ইং",
-      "hijri_date": "২৬ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "২৭ রমজান, ১৪৪৭ হিঃ",
       "weekday": "সোমবার",
-      "sahri": "4:51",
-      "fajr": "4:54",
+      "sahri": "4:45",
+      "fajr": "4:51",
       "sunrise": "6:04",
       "eshraq": "6:16",
       "zuhr_begins": "12:10",
       "zuhr": "12:13",
       "asr": "4:48",
-      "maghrib": "6:10",
+      "maghrib": "6:15",
       "isha": "7:28"
     },
     {
-      "day": "২৭",
+      "day": "২৮",
       "eng_date": "১৭ মার্চ, ২০২৬ ইং",
-      "hijri_date": "২৭ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "২৮ রমজান, ১৪৪৭ হিঃ",
       "weekday": "মঙ্গলবার",
-      "sahri": "4:50",
-      "fajr": "4:53",
+      "sahri": "4:44",
+      "fajr": "4:50",
       "sunrise": "6:03",
       "eshraq": "6:15",
       "zuhr_begins": "12:10",
       "zuhr": "12:13",
       "asr": "4:48",
-      "maghrib": "6:10",
+      "maghrib": "6:15",
       "isha": "7:28"
     },
     {
-      "day": "২৮",
+      "day": "২৯",
       "eng_date": "১৮ মার্চ, ২০২৬ ইং",
-      "hijri_date": "২৮ রমজান, ১৪৪৭ হিঃ",
+      "hijri_date": "২৯ রমজান, ১৪৪৭ হিঃ",
       "weekday": "বুধবার",
-      "sahri": "4:49",
-      "fajr": "4:52",
+      "sahri": "4:43",
+      "fajr": "4:49",
       "sunrise": "6:02",
       "eshraq": "6:14",
       "zuhr_begins": "12:10",
       "zuhr": "12:13",
       "asr": "4:49",
-      "maghrib": "6:10",
-      "isha": "7:29"
-    },
-    {
-      "day": "২৯",
-      "eng_date": "১৯ মার্চ, ২০২৬ ইং",
-      "hijri_date": "২৯ রমজান, ১৪৪৭ হিঃ",
-      "weekday": "বৃহস্পতিবার",
-      "sahri": "4:48",
-      "fajr": "4:50",
-      "sunrise": "6:01",
-      "eshraq": "6:13",
-      "zuhr_begins": "12:09",
-      "zuhr": "12:12",
-      "asr": "4:49",
-      "maghrib": "6:11",
+      "maghrib": "6:16",
       "isha": "7:29"
     },
     {
       "day": "৩০",
-      "eng_date": "২০ মার্চ, ২০২৬ ইং",
+      "eng_date": "১৯ মার্চ, ২০২৬ ইং",
       "hijri_date": "৩০ রমজান, ১৪৪৭ হিঃ",
-      "weekday": "শুক্রবার",
-      "sahri": "4:47",
-      "fajr": "4:49",
+      "weekday": "বৃহস্পতিবার",
+      "sahri": "4:42",
+      "fajr": "4:48",
       "sunrise": "6:01",
       "eshraq": "6:13",
       "zuhr_begins": "12:09",
       "zuhr": "12:12",
       "asr": "4:49",
-      "maghrib": "6:11",
-      "isha": "7:30"
+      "maghrib": "6:16",
+      "isha": "7:29"
     }
   ],
   "district_adjust": {
-    "Dhaka": {
-      "sehri": 0,
-      "iftar": 0
+    "bagerhat": {
+      "iftar": 1,
+      "sehri": 5
     },
-    "Gazipur": {
-      "sehri": 0,
-      "iftar": 0
+    "bandarban": {
+      "iftar": -10,
+      "sehri": -4
     },
-    "Narayanganj": {
-      "sehri": -1,
-      "iftar": -1
+    "barguna": {
+      "iftar": -2,
+      "sehri": 5
     },
-    "Narsingdi": {
-      "sehri": -2,
-      "iftar": -2
+    "barisal": {
+      "iftar": -2,
+      "sehri": 2
     },
-    "Munshiganj": {
-      "sehri": -1,
-      "iftar": -1
+    "bhola": {
+      "iftar": -3,
+      "sehri": 2
     },
-    "Manikganj": {
-      "sehri": 1,
-      "iftar": 1
+    "bogra": {
+      "iftar": 6,
+      "sehri": 1
     },
-    "Tangail": {
-      "sehri": 1,
-      "iftar": 1
+    "brahmanbaria": {
+      "iftar": -3,
+      "sehri": -4
     },
-    "Faridpur": {
-      "sehri": 2,
-      "iftar": 2
+    "chandpur": {
+      "iftar": -2,
+      "sehri": 0
     },
-    "Rajbari": {
-      "sehri": 2,
-      "iftar": 2
+    "chapainawabganj": {
+      "iftar": 10,
+      "sehri": 6
     },
-    "Gopalganj": {
-      "sehri": 2,
-      "iftar": 2
+    "chittagong": {
+      "iftar": -8,
+      "sehri": -2
     },
-    "Shariatpur": {
-      "sehri": 0,
-      "iftar": 0
+    "chuadanga": {
+      "iftar": 6,
+      "sehri": 6
     },
-    "Kishoreganj": {
-      "sehri": -3,
-      "iftar": -3
+    "comilla": {
+      "iftar": -4,
+      "sehri": -3
     },
-    "Madaripur": {
-      "sehri": 1,
-      "iftar": 1
+    "cox's bazar": {
+      "iftar": -10,
+      "sehri": -1
     },
-    "Mymensingh": {
-      "sehri": 0,
-      "iftar": 0
+    "dhaka": {
+      "iftar": 0,
+      "sehri": 0
     },
-    "Jamalpur": {
-      "sehri": 1,
-      "iftar": 1
+    "dinajpur": {
+      "iftar": 10,
+      "sehri": 2
     },
-    "Sherpur": {
-      "sehri": 1,
-      "iftar": 0
+    "faridpur": {
+      "iftar": 2,
+      "sehri": 2
     },
-    "Netrokona": {
-      "sehri": -3,
-      "iftar": -3
+    "feni": {
+      "iftar": -5,
+      "sehri": -3
     },
-    "Chattogram": {
-      "sehri": -8,
-      "iftar": -7
+    "gaibandha": {
+      "iftar": 6,
+      "sehri": -1
     },
-    "Coxsbazar": {
-      "sehri": -10,
-      "iftar": -9
+    "gazipur": {
+      "iftar": 0,
+      "sehri": -1
     },
-    "Bandarban": {
-      "sehri": -9,
-      "iftar": -7
+    "gopalganj": {
+      "iftar": 1,
+      "sehri": 4
     },
-    "Rangamati": {
-      "sehri": -9,
-      "iftar": -7
+    "habiganj": {
+      "iftar": -3,
+      "sehri": -6
     },
-    "Khagrachhari": {
-      "sehri": -8,
-      "iftar": -7
+    "jamalpur": {
+      "iftar": 4,
+      "sehri": -2
     },
-    "Feni": {
-      "sehri": -6,
-      "iftar": -5
+    "jessore": {
+      "iftar": 4,
+      "sehri": 6
     },
-    "Noakhali": {
-      "sehri": -6,
-      "iftar": -5
+    "jhalokati": {
+      "iftar": -1,
+      "sehri": 3
     },
-    "Lakshmipur": {
-      "sehri": -5,
-      "iftar": -4
+    "jhenaidah": {
+      "iftar": 5,
+      "sehri": 5
     },
-    "Cumilla": {
-      "sehri": -4,
-      "iftar": -3
+    "joypurhat": {
+      "iftar": 8,
+      "sehri": 2
     },
-    "Brahmanbaria": {
-      "sehri": -4,
-      "iftar": -4
+    "khagrachhari": {
+      "iftar": -8,
+      "sehri": -5
     },
-    "Chandpur": {
-      "sehri": -3,
-      "iftar": -3
+    "khulna": {
+      "iftar": 2,
+      "sehri": 6
     },
-    "Sylhet": {
-      "sehri": -7,
-      "iftar": -7
+    "kishoreganj": {
+      "iftar": -1,
+      "sehri": -3
     },
-    "Sunamganj": {
-      "sehri": -7,
-      "iftar": -7
+    "kurigram": {
+      "iftar": 7,
+      "sehri": -2
     },
-    "Moulvibazar": {
-      "sehri": -6,
-      "iftar": -6
+    "kushtia": {
+      "iftar": 5,
+      "sehri": 5
     },
-    "Habiganj": {
-      "sehri": -5,
-      "iftar": -5
+    "lakshmipur": {
+      "iftar": -3,
+      "sehri": -1
     },
-    "Rajshahi": {
-      "sehri": -7,
-      "iftar": -6
+    "lalmonirhat": {
+      "iftar": 7,
+      "sehri": -2
     },
-    "Chapainawabganj": {
-      "sehri": -8,
-      "iftar": -7
+    "madaripur": {
+      "iftar": 0,
+      "sehri": 2
     },
-    "Naogaon": {
-      "sehri": -6,
-      "iftar": -5
+    "magura": {
+      "iftar": 3,
+      "sehri": 4
     },
-    "Natore": {
-      "sehri": -5,
-      "iftar": -4
+    "manikganj": {
+      "iftar": 2,
+      "sehri": 1
     },
-    "Joypurhat": {
-      "sehri": -5,
-      "iftar": -4
+    "meherpur": {
+      "iftar": 7,
+      "sehri": 7
     },
-    "Bogura": {
-      "sehri": -4,
-      "iftar": -3
+    "moulvibazar": {
+      "iftar": -4,
+      "sehri": -8
     },
-    "Pabna": {
-      "sehri": -4,
-      "iftar": -3
+    "munshiganj": {
+      "iftar": -1,
+      "sehri": 0
     },
-    "Sirajganj": {
-      "sehri": -3,
-      "iftar": -2
+    "mymensingh": {
+      "iftar": 1,
+      "sehri": -3
     },
-    "Rangpur": {
-      "sehri": -6,
-      "iftar": -5
+    "naogaon": {
+      "iftar": 8,
+      "sehri": 3
     },
-    "Dinajpur": {
-      "sehri": -7,
-      "iftar": -6
+    "narail": {
+      "iftar": 2,
+      "sehri": 5
     },
-    "Thakurgaon": {
-      "sehri": -8,
-      "iftar": -7
+    "narayanganj": {
+      "iftar": -1,
+      "sehri": 0
     },
-    "Panchagarh": {
-      "sehri": -8,
-      "iftar": -7
+    "narsingdi": {
+      "iftar": -1,
+      "sehri": -2
     },
-    "Nilphamari": {
-      "sehri": -7,
-      "iftar": -6
+    "natore": {
+      "iftar": 7,
+      "sehri": 4
     },
-    "Lalmonirhat": {
-      "sehri": -7,
-      "iftar": -6
+    "netrakona": {
+      "iftar": 0,
+      "sehri": -5
     },
-    "Kurigram": {
-      "sehri": -6,
-      "iftar": -5
+    "nilphamari": {
+      "iftar": 10,
+      "sehri": 1
     },
-    "Gaibandha": {
-      "sehri": -5,
-      "iftar": -4
+    "noakhali": {
+      "iftar": -4,
+      "sehri": -1
     },
-    "Khulna": {
-      "sehri": 2,
-      "iftar": 2
+    "pabna": {
+      "iftar": 5,
+      "sehri": 4
     },
-    "Bagerhat": {
-      "sehri": 2,
-      "iftar": 2
+    "panchagarh": {
+      "iftar": 12,
+      "sehri": 1
     },
-    "Satkhira": {
-      "sehri": 2,
-      "iftar": 2
+    "patuakhali": {
+      "iftar": -2,
+      "sehri": 4
     },
-    "Jessore": {
-      "sehri": 1,
-      "iftar": 1
+    "pirojpur": {
+      "iftar": 0,
+      "sehri": 5
     },
-    "Jhenaidah": {
-      "sehri": 1,
-      "iftar": 1
+    "rajbari": {
+      "iftar": 4,
+      "sehri": 4
     },
-    "Magura": {
-      "sehri": 1,
-      "iftar": 1
+    "rajshahi": {
+      "iftar": 8,
+      "sehri": 5
     },
-    "Narail": {
-      "sehri": 1,
-      "iftar": 1
+    "rangamati": {
+      "iftar": -9,
+      "sehri": -4
     },
-    "Kushtia": {
-      "sehri": 1,
-      "iftar": 1
+    "rangpur": {
+      "iftar": 8,
+      "sehri": -1
     },
-    "Chuadanga": {
-      "sehri": 0,
-      "iftar": 1
+    "satkhira": {
+      "iftar": 4,
+      "sehri": 8
     },
-    "Meherpur": {
-      "sehri": 0,
-      "iftar": 1
+    "shariatpur": {
+      "iftar": -1,
+      "sehri": 2
     },
-    "Barishal": {
-      "sehri": -1,
-      "iftar": 1
+    "sherpur": {
+      "iftar": 3,
+      "sehri": -2
     },
-    "Bhola": {
-      "sehri": -2,
-      "iftar": -1
+    "sirajganj": {
+      "iftar": 4,
+      "sehri": 1
     },
-    "Barguna": {
-      "sehri": 0,
-      "iftar": 1
+    "sunamganj": {
+      "iftar": -2,
+      "sehri": -7
     },
-    "Jhalokathi": {
-      "sehri": 0,
-      "iftar": 1
+    "sylhet": {
+      "iftar": -4,
+      "sehri": -9
     },
-    "Patuakhali": {
-      "sehri": 0,
-      "iftar": 1
+    "tangail": {
+      "iftar": 2,
+      "sehri": 0
     },
-    "Pirojpur": {
-      "sehri": 0,
-      "iftar": 1
+    "thakurgaon": {
+      "iftar": 12,
+      "sehri": 2
     }
   }
 }
