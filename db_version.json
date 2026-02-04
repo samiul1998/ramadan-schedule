@@ -5,9 +5,9 @@
     "log": "Schedule for Ramadan 2026"
   },
   "database": {
-    "version": "1.0.0",
-    "file": "ramadan_app_database.zip",
-    "log": "Added new dua collection"
+    "version": "1.0.1",
+    "file": "ramadan_app_database_20260204.zip",
+    "log": "added quran para wise"
   },
   "district_list": {
     "version": "1.0.0",
